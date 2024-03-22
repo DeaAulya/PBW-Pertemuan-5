@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    margin-bottom: 0;
+}
+h3 {
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+p {
+    text-align: center;
+    font-size: 18px;
+}
+body {
+    font-family: sans-serif;    /* jenis huruf pada teks */
+    font-size: 15px;        /* ukuran huruf pada teks */
+    justify-content: center;        /* Menempatkan konten secara horizontal di tengah */
+    margin: auto;       /* Menambahkan margin kiri dan kanan secara otomatis. */
+    width: 400px;    /* Mengatur lebar container menjadi 550px */
+}
+.button-Hitung {
+    background-color:blue;          /* Mengatur warna background tombol "Tambah" menjadi biru */
+    color: white;           /* Mengatur warna teks tombol "Tambah" menjadi putih */
+    border-radius: 5px;       /* Menghilangkan sudut lancip */
+}
